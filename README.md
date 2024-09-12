@@ -1,21 +1,21 @@
-# Hello, I'm Khushi Mandavia 👋
+# Hello, I'm Khushi Mandavia 
 Data Strategist | Analytics Enthusiast | Data Storytelling | Strategy & Growth
 
-## 🚀 About Me
+## About Me
 I'm pursuing a Master of Science in Applied Analytics at Columbia University. I'm leveraging my strong background in data analysis, financial modeling, and business strategy to solve real-world problems. My passion lies in using data-driven insights to enhance operational efficiency and drive revenue growth.
 
-- 🌱 **Expected Graduation**: December 2024.
-- 💼 **Industry Experience**: Digital transformation, airline revenue management, and financial planning.
-- 🔍 **Focus Areas**: Data visualization, customer segmentation, and market analysis.
-- 💡 **Tools**: Python, SQL, Tableau, Power BI, R, and more.
+- **Expected Graduation**: December 2024.
+- **Industry Experience**: Digital transformation, airline revenue management, and financial planning.
+- **Focus Areas**: Data visualization, customer segmentation, and market analysis.
+- **Tools**: Python, SQL, Tableau, Power BI, R, and more.
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Languages**: Python | R | SQL |
 - **Tools**: Tableau | Power BI | Microsoft Excel | Git | ETL Tools
 - **Databases**: PostgreSQL | MongoDB
 - **Competencies**: Financial Modeling | Data Storytelling | Data Mining | Risk Management
 
-## 💼 Work Experience
+## Work Experience
 
 ### 1. **Management Trainee - Digital Transformation and Analytics**  
 **Genpact** | February 2023 - August 2023  
@@ -40,7 +40,7 @@ I'm pursuing a Master of Science in Applied Analytics at Columbia University. I'
 - Conducted market research to identify pricing opportunities and challenges in the U.S. and Africa, leveraging data to support the company’s global expansion strategy.
 
 
-## 📈 Featured Projects
+## Featured Projects
 1. **Market Basket Analysis for Whole Foods** (R, Apriori Algorithm, Market Basket Analysis)  
    - Conducted an in-depth market basket analysis of grocery buying habits at a Whole Foods location in New York City, leading to store layout optimization and increased sales.  
    - Developed actionable insights for Amazon by optimizing Whole Foods store layouts, serving as a pilot for applying data-driven strategies across Amazon's retail platforms.
