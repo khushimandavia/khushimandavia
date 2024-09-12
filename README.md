@@ -15,6 +15,31 @@ I'm pursuing a Master of Science in Applied Analytics at Columbia University. I'
 - **Databases**: PostgreSQL | MongoDB
 - **Competencies**: Financial Modeling | Data Storytelling | Data Mining | Risk Management
 
+  ## 💼 Work Experience
+
+### 1. **Management Trainee - Digital Transformation and Analytics**  
+**Genpact** | February 2023 - August 2023  
+- Led the redesign of the new hire experience through emotion-led journey mapping, doubling the speed from intent to onboarding.
+- Spearheaded the digitization and streamlining of the onboarding and background check processes for new hires and internally transferred employees. This reduced cycle time by 60% while ensuring audit compliance for both Genpact and its client contracts.
+- Collaborated with cross-functional teams to optimize internal processes, resulting in significant improvements in both employee satisfaction and operational efficiency.
+- Played a key role in the digital transformation strategy, helping implement automation initiatives that drove cost savings and operational agility.
+
+### 2. **Analyst - Revenue Management (Commercials)**  
+**Flybig Airline** | June 2022 - January 2023  
+- Successfully spearheaded **market analysis** and **strategic planning** initiatives, leading to the **launch of 6 new sectors**, significantly expanding the airline's network coverage.
+- Developed and executed strategies that led to a **20% increase in annual revenue** by analyzing market demand patterns and implementing dynamic pricing models.
+- Collaborated with the network planning and sales teams to optimize inventory and route planning, based on evolving market conditions and passenger demand.
+- Directed the **media communication strategy** and built strategic partnerships with over **20 travel agents** across Northeast India, expanding market reach and positioning Flybig as a key player in regional air travel.
+- Played a critical role in managing revenue optimization projects, including fare restrictions, seasonal demand analysis, and customer segmentation to enhance profitability.
+
+### 3. **Financial Planning & Analysis Intern**  
+**NIUM** | June 2021 - October 2021  
+- Demonstrated analytical acumen by leading research efforts to improve the product onboarding flow in the United States market, resulting in a **20% reduction in turnaround time (TAT)** and enhancing overall customer satisfaction.
+- Developed and implemented a **pricing model strategy** for NIUM’s African market, which contributed to a **12% increase in revenue** and improved the company’s market competitiveness.
+- Worked closely with cross-functional teams, including finance and product development, to optimize pricing structures and streamline operational workflows, leading to greater efficiency and cost savings.
+- Conducted market research to identify pricing opportunities and challenges in the U.S. and Africa, leveraging data to support the company’s global expansion strategy.
+
+
 ## 📈 Featured Projects
 1. **Market Basket Analysis for Whole Foods** (R, Apriori Algorithm, Market Basket Analysis)  
    - Conducted an in-depth market basket analysis of grocery buying habits at a Whole Foods location in New York City, leading to store layout optimization and increased sales.  
