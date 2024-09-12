@@ -1,4 +1,4 @@
-# Hello, I'm Khushi Mandavia 
+# Hello, I'm Khushi Mandavia!
 Data Strategist | Analytics Enthusiast | Data Storytelling | Strategy & Growth
 
 ## About Me
