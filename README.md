@@ -15,7 +15,7 @@ I'm pursuing a Master of Science in Applied Analytics at Columbia University. I'
 - **Databases**: PostgreSQL | MongoDB
 - **Competencies**: Financial Modeling | Data Storytelling | Data Mining | Risk Management
 
-  ## 💼 Work Experience
+## 💼 Work Experience
 
 ### 1. **Management Trainee - Digital Transformation and Analytics**  
 **Genpact** | February 2023 - August 2023  
