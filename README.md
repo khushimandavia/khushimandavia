@@ -1,38 +1,43 @@
 # Hello, I'm Khushi Mandavia!
-Data Strategist | Analytics Enthusiast | Data Storytelling | Strategy & Growth
+Data Strategist | Strategy & Growth | Data Storytelling | Avgeek
 
 ## About Me
-I'm pursuing a Master of Science in Applied Analytics at Columbia University. I'm leveraging my strong background in data analysis, financial modeling, and business strategy to solve real-world problems. My passion lies in using data-driven insights to enhance operational efficiency and drive revenue growth.
+I'm pursuing a Master's degree in Data Analytics from Columbia University. I'm leveraging my strong background in data analysis, financial modeling, and business strategy to solve real-world problems. My passion lies in using data-driven insights to enhance operational efficiency and drive revenue growth.
 
 - **Expected Graduation**: December 2024.
 - **Industry Experience**: Digital transformation, airline revenue management, and financial planning.
 - **Focus Areas**: Data visualization, customer segmentation, and market analysis.
-- **Tools**: Python, SQL, Tableau, Power BI, R, and more.
 
 ## Tech Stack
-- **Languages**: Python | R | SQL |
-- **Tools**: Tableau | Power BI | Microsoft Excel | Git | ETL Tools
+- **Languages**: Python | R | SQL 
+- **Tools**: Tableau | Power BI | Microsoft Excel | Git | ETL Tools | VBA
 - **Databases**: PostgreSQL | MongoDB
-- **Competencies**: Financial Modeling | Data Storytelling | Data Mining | Risk Management
+- **Competencies**: Financial Modeling | Data Storytelling | Data Mining | Risk Management | Exploratory Data Analysis
 
 ## Work Experience
 
-### 1. **Management Trainee - Digital Transformation and Analytics**  
-**Genpact** | February 2023 - August 2023  
-- Led the redesign of the new hire experience through emotion-led journey mapping, doubling the speed from intent to onboarding.
-- Spearheaded the digitization and streamlining of the onboarding and background check processes for new hires and internally transferred employees. This reduced cycle time by 60% while ensuring audit compliance for both Genpact and its client contracts.
-- Collaborated with cross-functional teams to optimize internal processes, resulting in significant improvements in both employee satisfaction and operational efficiency.
-- Played a key role in the digital transformation strategy, helping implement automation initiatives that drove cost savings and operational agility.
+### 1. **Project Manager/Team Leader**  
+**American Airlines(Capstone)** | September 2024 - present 
+- Developed a data-driven framework to optimize fare restrictions and customer segmentation for American Airlines.
+- Analyzed pricing variables to design optimal fare ladders for specific market segments.
+- Utilized advanced analytics and K-means clustering model to shift from an intuition-based approach to a systematic methodology.
+- Proposed solutions to improve revenue management and customer satisfaction through tailored fare strategies
 
-### 2. **Analyst - Revenue Management (Commercials)**  
+### 2. **Financial PLanning and Analysis**  
+**Genpact** | February 2023 - August 2023  
+- Facilitated corporate consolidation **reporting**, yearly operating plans, and long-range planning, ensuring seamless coordination across departments.
+- Conducted **variance analysis** and provided concise insights to senior management, enabling a **10% improvement** in profitability through targeted cost and margin optimization strategies.
+- Reviewed month-end close activities and analyzed P&L for new deals, ensuring alignment with projected financial outcomes.
+
+### 3. **Analyst - Revenue Management (Commercials)**  
 **Flybig Airline** | June 2022 - January 2023  
-- Successfully spearheaded **market analysis** and **strategic planning** initiatives, leading to the **launch of 6 new sectors**, significantly expanding the airline's network coverage.
+- Successfully spearheaded **market analysis** and **strategic planning** initiatives, leading to the **launch of 6 new sectors**, significantly expanding the airline's **network coverage** by **20%**.
 - Developed and executed strategies that led to a **20% increase in annual revenue** by analyzing market demand patterns and implementing dynamic pricing models.
 - Collaborated with the network planning and sales teams to optimize inventory and route planning, based on evolving market conditions and passenger demand.
 - Directed the **media communication strategy** and built strategic partnerships with over **20 travel agents** across Northeast India, expanding market reach and positioning Flybig as a key player in regional air travel.
 - Played a critical role in managing revenue optimization projects, including fare restrictions, seasonal demand analysis, and customer segmentation to enhance profitability.
 
-### 3. **Financial Planning & Analysis Intern**  
+### 4. **Financial Planning & Analysis Intern**  
 **NIUM** | June 2021 - October 2021  
 - Demonstrated analytical acumen by leading research efforts to improve the product onboarding flow in the United States market, resulting in a **20% reduction in turnaround time (TAT)** and enhancing overall customer satisfaction.
 - Developed and implemented a **pricing model strategy** for NIUM’s African market, which contributed to a **12% increase in revenue** and improved the company’s market competitiveness.
