@@ -1,6 +1,6 @@
 # Hello, I'm Khushi Mandavia!
 
-**Data Strategist | Analytics Innovator | Financial Analyst | Avgeek**
+**Data Strategist | Analytics | Data Storytelling | Avgeek**
 
 ## About Me
 
