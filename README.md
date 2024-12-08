@@ -45,19 +45,19 @@ I’m a graduate student at Columbia University, pursuing a Master of Science in
 - Spearheaded pricing strategies and market analysis, launching six new sectors, resulting in a **20% revenue increase**.
 - Established partnerships with 20 strategic business partners to expand market reach and improve profitability.
 
-### 3. Operations Intern
-
-**FrontRow** | *Jul 2021 – Oct 2021*
-
-- Designed and optimized operational workflows, reducing inefficiencies by **15%**.
-- Conducted market research to identify customer pain points, contributing to product improvement.
-
 ### 4. Financial Planning & Analysis Intern
 
 **NIUM** | *Jun 2021 – Oct 2021*
 
 - Developed a pricing model for the African market, driving **12% revenue growth** and enhancing competitiveness.
 - Streamlined U.S. product onboarding, reducing turnaround time by **20%** and improving customer satisfaction.
+
+### 3. Operations Intern
+
+**FrontRow** | *Jul 2020 – Oct 2020*
+
+- Designed and optimized operational workflows, reducing inefficiencies by **15%**.
+- Conducted market research to identify customer pain points, contributing to product improvement.
 
 ---
 
