@@ -63,27 +63,27 @@ I’m a graduate student at Columbia University, pursuing a Master of Science in
 
 ## Featured Projects
 
-### 1. American Airlines Capstone Project
+### [1. American Airlines Capstone Project](https://github.com/khushimandavia/American-Airlines)
 
 **(Python, K-means Clustering)**
 
 - Developed a systematic, data-driven framework to optimize fare structures for leisure travelers, increasing revenue by **15%**.
 - Conducted clustering analysis to improve customer segmentation and tailored fare ladders for actionable insights.
 
-### 2. ConnectVC
+### [2. ConnectVC](https://github.com/khushimandavia/ConnectVC)
 
 **(Columbia Business School – Foundations of Entrepreneurship)**
 
 - Designed a prototype platform connecting startups with venture capitalists through algorithm-driven matchmaking based on funding and industry preferences.
 
-### 3. NYC Neighborhood Insights Platform
+### [3. NYC Neighborhood Insights Platform](https://github.com/khushimandavia/NYC-Neighborhoods-Platform)
 
 **(SQL, NoSQL, Python Dash, MongoDB)**
 
 - Created an interactive platform providing insights into housing prices, crime data, and demographics across NYC boroughs.
 - Integrated data from diverse sources using technologies like PostgreSQL, MongoDB, and LangChain for AI-powered query processing.
 
-### 4. Market Basket Analysis for Whole Foods
+### [4. Market Basket Analysis for Whole Foods](https://github.com/khushimandavia/Market-Basket-Analysis-for-Whole-Foods)
 
 **(R, Apriori Algorithm)**
 
@@ -95,7 +95,7 @@ I’m a graduate student at Columbia University, pursuing a Master of Science in
 
 - Delivered strategic insights through a comparative analysis of Nordstrom’s performance against competitors like Kohl’s and TJ Maxx, identifying gaps and opportunities.
 
-### 6. Beyond the Screen: Understanding Social Media’s Influence on Perception
+### [6. Beyond the Screen: Understanding Social Media’s Influence on Perception](https://github.com/khushimandavia/Beyond-the-Screen-Understanding-Social-Media-s-Influence-on-our-Perception)
 
 **(Research Design, Qualitative Analysis)**
 
@@ -108,7 +108,7 @@ I’m a graduate student at Columbia University, pursuing a Master of Science in
 
 - Designed dashboards to visualize career development metrics, enabling actionable insights for the Columbia Career Design Lab.
 
-### 8. Used Car Prices Kaggle Project
+### [8. Estimating Used Car Prices Kaggle Project](https://github.com/khushimandavia/Estimating-Used-Car-Prices-)
 
 **(Python, Regression Analysis)**
 
