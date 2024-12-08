@@ -12,11 +12,11 @@ I’m a graduate student at Columbia University, pursuing a Master of Science in
 
 ### Master’s Degree
 
-- **M.S. in Data Analytics** - Columbia University, Columbia Business School
+- **M.S. in Data Analytics** - Columbia University, Columbia Business School - Dec'24
 
 ### Bachelor’s Degree
 
-- **B.Com (Honours), Minor in Economics** - Jesus and Mary College, University of Delhi
+- **B.Com (Honours), Minor in Economics** - Jesus and Mary College, University of Delhi - May'22
 
 ---
 
