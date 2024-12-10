@@ -29,39 +29,7 @@ I’m a graduate student at Columbia University, pursuing a Master of Science in
 
 ---
 
-## Work Experience
-
-### 1. Digital Transformation & Analytics
-
-**Genpact** | *Feb 2023 – Aug 2023*
-
-- Automated 80% of onboarding processes, achieving **$30M in annual cost savings** and reducing cycle times by 50%.
-- Optimized workforce allocation for **60,000 employees** by analyzing talent supply chain metrics and identifying improvement areas.
-
-### 2. Revenue Management Analyst
-
-**Flybig Airlines** | *Dec 2021 – Jan 2023*
-
-- Spearheaded pricing strategies and market analysis, launching six new sectors, resulting in a **20% revenue increase**.
-- Established partnerships with 20 strategic business partners to expand market reach and improve profitability.
-
-### 4. Financial Planning & Analysis Intern
-
-**NIUM** | *Jun 2021 – Oct 2021*
-
-- Developed a pricing model for the African market, driving **12% revenue growth** and enhancing competitiveness.
-- Streamlined U.S. product onboarding, reducing turnaround time by **20%** and improving customer satisfaction.
-
-### 3. Operations Intern
-
-**FrontRow** | *Jul 2020 – Oct 2020*
-
-- Designed and optimized operational workflows, reducing inefficiencies by **15%**.
-- Conducted market research to identify customer pain points, contributing to product improvement.
-
----
-
-## Featured Projects
+## Academic Projects
 
 ### [1. American Airlines Capstone Project](https://github.com/khushimandavia/American-Airlines)
 
