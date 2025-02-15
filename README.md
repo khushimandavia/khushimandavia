@@ -4,7 +4,7 @@
 
 ## About Me
 
-I’m a graduate student at Columbia University, pursuing a Master of Science in Data Analytics (graduating Dec ’24). My educational background, combined with hands-on industry experience, equips me to solve complex business challenges using a unique blend of data analytics, financial expertise, and strategic thinking. My passion lies in leveraging data-driven insights to drive operational efficiency, optimize processes, and achieve impactful results.
+I’m a graduate student at Columbia University with a Masters degree in Applied Analytics (graduated Dec ’24). My educational background, combined with hands-on industry experience, equips me to solve complex business challenges using a unique blend of data analytics, financial expertise, and strategic thinking. My passion lies in leveraging data-driven insights to drive operational efficiency, optimize processes, and achieve impactful results.
 
 ---
 
