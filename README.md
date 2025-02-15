@@ -1,6 +1,6 @@
 # Hello, I'm Khushi Mandavia!
 
-**Strategy & Analytics | Growth | Data Storytelling | **
+**Strategy & Analytics | Growth | Data Storytelling**
 
 ## About Me
 
